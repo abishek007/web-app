@@ -1,6 +1,13 @@
 # Note
 
-React Application to show the list of Books and detailed information of selected Book.
+This is the Server Side Rendered React Application to show the list of Books and detailed information of selected Book.
+
+## Used Libaries
+  React
+  Redux
+  Ant Design
+  Styled Components
+  Express
 
 ## Available Scripts
 
