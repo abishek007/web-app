@@ -17,5 +17,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Procedure to Start the Application 
-Run `npm run build` first after that Run `npm run dev` in seperate tab
+Run `npm run build` first after that Run `npm run dev` in separate new tab
 
