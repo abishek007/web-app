@@ -7,7 +7,7 @@ This is the Server Side Rendered React Application to show the list of Books and
   Redux\
   Ant Design\
   Styled Components\
-  Express\
+  Express
 
 ## Available Scripts
 
