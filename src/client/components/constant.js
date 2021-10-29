@@ -15,7 +15,7 @@ export const headerStyle = {
 
 export const searchStyle = { width: '40%' }
 
-export const searchPlaceholder = 'Search Book'
+export const searchPlaceholder = 'Search Booking'
 
 export const loaderSize = "large"
 
